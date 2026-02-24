@@ -1,1 +1,5 @@
-# placeholder
+def get_market_data():
+    return {
+        "close": [29.1, 29.4, 29.2, 29.6, 29.8],
+        "volume": [100000, 120000, 110000, 130000, 130000]
+    }
