@@ -1,0 +1,19 @@
+market-insight-ai-itub4/
+│
+├── data/
+│   └── sample_data.csv
+│
+├── notebooks/
+│   └── exploratory_analysis.ipynb
+│
+├── src/
+│   ├── market_data.py
+│   ├── technical_analysis.py
+│   ├── fundamentals.py
+│   ├── qualitative.py
+│   ├── ai_engine.py
+│   └── main.py
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
